@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>API Get list users</description>
+   <name>Get list users</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7363f021-e473-425a-b0fe-13377497560f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Positif case login facebook</description>
+   <name>TC_FB_Login_Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b2429e21-ec2b-4455-8981-9708d3279d95</testCaseGuid>
+</TestCaseEntity>

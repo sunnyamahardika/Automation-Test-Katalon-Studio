@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Negatif case login facebook</description>
+   <name>TC_FB_Login_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7aa3fa06-d362-4d9a-a02f-75e391030179</testCaseGuid>
+</TestCaseEntity>
